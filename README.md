@@ -1,7 +1,7 @@
-# LevelDB 小黄书 
+# LevelDB 小黄书
 -  Author: 赵行晟
 
-欢迎来到
+欢迎来到 《LevelDB 小黄书》（ 版本 0.01 -- 查看 [book news](./booknews.md) 以获得最新更新消息 ）。
 
 
 
